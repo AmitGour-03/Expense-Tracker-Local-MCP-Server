@@ -1,0 +1,9 @@
+[project]
+name = "expense-tracker-mcp-server"
+version = "0.1.0"
+description = "This local mcp server is used to track expenses and manage budgets. Rightnow, It consists of 3 mcp tools."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastmcp>=2.12.3",
+]
